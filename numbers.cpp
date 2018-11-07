@@ -9,9 +9,9 @@ int main( )
    int b;
    float c; 
    float d;
-   int numbers = 0;
+   float numbers = 0;
    int count = 0;
-   int average;
+   float average;
    
    
 	   
